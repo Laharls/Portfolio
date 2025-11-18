@@ -19,7 +19,7 @@ Ce portfolio a été conçu pour présenter mes compétences et expériences de 
 - ⭐ Recommandations professionnelles LinkedIn
 - 📧 Formulaire de contact fonctionnel
 
-**🔗 Démo en ligne :** [anthonyurbanski.dev](http://localhost:3000) (à mettre à jour, car pointe sur localhost)
+**🔗 Démo en ligne :** [anthonyurbanski.dev](https://portfolio-peach-nine-62.vercel.app/)
 
 ## 🎯 Fonctionnalités
 
